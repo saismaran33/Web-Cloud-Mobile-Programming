@@ -1,0 +1,4 @@
+#Sat Oct 27 15:23:41 CDT 2018
+base.0=C\:\\Users\\sai smaran chinthala\\Desktop\\Fall 2018\\WebCloud Programming\\Andriod_Module\\ICP9\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
