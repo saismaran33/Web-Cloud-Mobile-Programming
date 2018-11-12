@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 02 17:37:29 CDT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\sai smaran chinthala\\Documents\\GitHub\\Web-Cloud-Mobile-Programming\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

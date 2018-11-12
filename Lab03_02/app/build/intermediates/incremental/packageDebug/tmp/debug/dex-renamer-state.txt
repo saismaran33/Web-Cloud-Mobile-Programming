@@ -1,0 +1,4 @@
+#Fri Nov 02 17:37:28 CDT 2018
+base.0=C\:\\Users\\sai smaran chinthala\\Documents\\GitHub\\Web-Cloud-Mobile-Programming\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
